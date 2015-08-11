@@ -1,1 +1,7 @@
-["hubot-weather-ja", "hubot-reviewer-lotto", "hubot-sushiyuki", "hubot-cron", "hubot-redis-brain"]
+[
+  "hubot-cron",
+  "hubot-redis-brain",
+  "hubot-reviewer-lotto",
+  "hubot-sushiyuki",
+  "hubot-weather-ja"
+]

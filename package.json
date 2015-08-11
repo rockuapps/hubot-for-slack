@@ -21,16 +21,16 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
+    "cron": "1.0.4",
     "githubot": "0.5.0",
     "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-cron": ">= 0.1.0",
+    "hubot-redis-brain": "0.0.3",
     "hubot-reviewer-lotto": "^0.5.4",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-slack": "^3.3.0",
-    "hubot-weather-ja": "0.0.1",
     "hubot-sushiyuki": "0.0.2",
-    "hubot-cron": ">= 0.1.0",
-    "hubot-redis-brain": "0.0.3",
-    "cron": "1.0.4",
+    "hubot-weather-ja": "0.0.1",
     "time": "0.11.3"
   },
   "engines": {
