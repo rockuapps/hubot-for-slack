@@ -28,7 +28,10 @@
     "hubot-slack": "^3.3.0",
     "hubot-weather-ja": "0.0.1",
     "hubot-sushiyuki": "0.0.2",
-    "hubot-cron": ">= 0.1.0"
+    "hubot-cron": ">= 0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "cron": "1.0.4",
+    "time": "0.11.3"
   },
   "engines": {
     "node": "0.10.x"
