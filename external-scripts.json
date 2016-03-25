@@ -2,6 +2,5 @@
   "hubot-cron",
   "hubot-redis-brain",
   "hubot-reviewer-lotto",
-  "hubot-deploy-builder",
   "hubot-sushiyuki"
 ]
